@@ -1,1 +1,2 @@
 # Custome-store-project
+The project “custom store” was developed for making records in a jewelry shop and some other stationary shop in custom store there are two types of materials i.e., jewelry and glossary. First when we consider jewelry in that they are wide rang variety of Gold Ornaments with modern and traditional collections of rings, Chains, Necklaces and Gold Bangles. When we consider another item in custom store i.e., glossary items in this they are wide range of variety of lipstick, watches and some other stationary items.
